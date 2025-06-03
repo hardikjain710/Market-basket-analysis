@@ -1,3 +1,15 @@
+# 🛒 Market Basket Analysis
+
+This project analyzes retail transaction data using Market Basket Analysis techniques to find associations between items purchased together. Implemented in Python with both the `apyori` and `mlxtend` libraries, it extracts valuable patterns for product recommendations and business insights.
+
+## 🔍 Overview
+- 📊 Techniques: Apriori algorithm, association rules (support, confidence, lift)
+- 🛠️ Tools: Python, pandas, matplotlib, apyori, mlxtend
+- 📁 Data: 7500+ transactions from a French retail store
+
+> See the Jupyter notebooks for full implementation:  
+> ✔️ [`Market Basket Analysis Using apyori`](./Market%20Basket%20Analysis%20Using%20apyori%20package.ipynb)  
+> ✔️ [`Market Basket Analysis Using mlxtend`](./Market%20Basket%20Analysis%20Using%20mlxtend%20package.ipynb)
 
 # Market Basket Analysis of Store Data
 
