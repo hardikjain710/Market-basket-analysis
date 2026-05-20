@@ -53,14 +53,14 @@ Open either notebook and run all cells.
 
 ## Project structure
 
-
+```
 Market-basket-analysis/
 ├── Market Basket Analysis Using apyori package.ipynb
 ├── Market Basket Analysis Using mlxtend package.ipynb
 ├── Data/
 │   └── store_data.csv
 └── README.md
-
+```
 ## Tech stack
 
 Python · Pandas · NumPy · Matplotlib · Apyori · MLxtend
